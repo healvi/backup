@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "plantsapp",
+			"path": "plantsapp"
+		},
+		{
+			"name": "simple-notes-firebase",
+			"path": "..\\learn project\\learn\\react\\simple-notes-firebase"
+		},
+		{
+			"path": "..\\learn project\\learn\\react\\firstapp"
+		}
+	],
+	"settings": {}
+}

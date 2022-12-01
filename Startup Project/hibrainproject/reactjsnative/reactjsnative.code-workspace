@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "hibrainfrontend",
+			"path": "hibrainfrontend"
+		},
+		{
+			"name": "hibrainbackend",
+			"path": "hibrainbackend"
+		}
+	],
+	"settings": {}
+}
